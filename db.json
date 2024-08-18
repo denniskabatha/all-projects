@@ -1,24 +1,5 @@
 {
-    "cars": [
-      { "id": 1, "name": "Alfa Romeo", "price": "$20/hour", "image": "https://i.pinimg.com/originals/95/39/a0/9539a003443229efc36bb4566bef0e85.jpg", "description": "Stylish, luxurious , and high-performance" },
-      { "id": 2, "name": "Shelby Cobra gt500", "price": "$22/hour", "image": "https://i.pinimg.com/originals/73/e8/fc/73e8fcab5aea6408275bc84f293dc659.jpg", "description": "One of the fastest cars on the road at any price." },
-      { "id": 3, "name": "Porsche 911 gt3", "price": "$30/hour", "image": "https://i.pinimg.com/originals/5b/38/65/5b3865909986e0bc638c887868ded683.png", "description": "It is a track-ready machine that's also street legal." },
-      { "id": 4, "name": "Nissan gtr Nismo", "price": "$28/hour", "image": "https://i.pinimg.com/originals/70/22/fd/7022fde301338644bca180ebce7d51a7.jpg", "description": "Highly tuned , a beast in the road." },
-      { "id": 5, "name": "BMW 3 Series", "price": "$35/hour", "image": "https://i.pinimg.com/originals/ef/99/3d/ef993dd6bd3f93f1dc3cbbce83a42fb7.jpg", "description": "A luxury sedan with advanced features." },
-      { "id": 6, "name": "McLaren P1", "price": "$33/hour", "image": "https://i.pinimg.com/originals/ea/6d/8e/ea6d8e5066eef8a435e2d9ccdabbd467.jpg", "description": "The hybrid hypercar can rocket from 0 to 60 mph in just 2.8 seconds." },
-      { "id": 7, "name": "Nissan gt", "price": "$40/hour", "image": "https://i.pinimg.com/originals/c1/00/30/c10030e1abe36745502a9bdd475ba28d.jpg", "description": "Simply made and purposed for drifting and street races." },
-      { "id": 8, "name": "Skyline", "price": "$45/hour", "image": "https://i.pinimg.com/originals/e1/5a/a5/e15aa58261b0c253a1d82b332d453e38.jpg", "description": "Powerful 2.6-liter inline six-cylinder engine." },
-      { "id": 9, "name": "Ford Mustang gt 350", "price": "$25/hour", "image": "https://i.pinimg.com/originals/37/82/0d/37820d1890aa0870f5dc80a1653fb4fe.jpg", "description": "A beauty to behold." },
-      { "id": 10, "name": "Lamborghini Aventador", "price": "$50/hour", "image": "https://i.pinimg.com/originals/ac/ed/0a/aced0ad4098c86ab92bd806acbb84d55.jpg", "description": "A luxury sport car with exceptional performance." }
-    ],
-    "destinations": [
-      { "id": 1, "name": "Maasai Mara", "description": "A large game reserve in Kenya, known for the Great Migration.", "image": "https://i.pinimg.com/originals/ae/64/93/ae6493a432647ec3fe66e4dda779e99a.png", "price": "$200" },
-      { "id": 2, "name": "Diani Beach", "description": "A beautiful beach on the Indian Ocean coast of Kenya.", "image": "https://i.pinimg.com/originals/d4/ce/78/d4ce78721d79b0c8bb854b67219353ac.jpg", "price": "$150" },
-      { "id": 3, "name": "Mount Kenya", "description": "The highest mountain in Kenya and the second-highest in Africa.", "image": "https://i.pinimg.com/originals/4d/3f/67/4d3f67525cc4122993d3360f7ef363f0.jpg", "price": "$250" },
-      { "id": 4, "name": "Amboseli National Park", "description": "A national park in Kenya, known for its large elephant herds.", "image": "https://i.pinimg.com/originals/15/a4/86/15a48619fec1abe5c7bcb054fdb3ff2d.jpg", "price": "$180" },
-      { "id": 5, "name": "Lamu Island", "description": "A UNESCO World Heritage site with a rich history and culture.", "image": "https://i.pinimg.com/originals/ca/d1/df/cad1dfd2c5f01f9a0bd8265764e66625.jpg", "price": "$220" }
-    ]
-    {
+
   "images": [
     { "url": "https://i.pinimg.com/originals/2c/71/f7/2c71f7fc1a57010f17beb9d1841060e1.jpg" },
     { "url": "https://i.pinimg.com/originals/e2/f6/77/e2f67776affb9e21fe0ff42a2af15dc9.jpg" },
