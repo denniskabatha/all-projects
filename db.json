@@ -7,9 +7,8 @@
     { "url": "https://i.pinimg.com/originals/45/25/e7/4525e77a81f4575dba77d75df6945e55.jpg" },
     { "url": "https://i.pinimg.com/originals/cd/78/e4/cd78e4094d4fd4f52c48f819cc38ad94.jpg" },
     { "url": "https://i.pinimg.com/originals/04/7e/07/047e07960194eb6006af2fcb4b369fe4.jpg" }
-  ]
-}
-"news": [
+  ],
+  "news": [
     {
       "title": "Political News 1",
       "description": "Kalonzo Musyoka asks Raila to relinquish Azimio,s leaderership following his deal with Ruto . ",
@@ -102,3 +101,4 @@
     }
   ]
   
+}
