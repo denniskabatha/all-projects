@@ -9,5 +9,96 @@
     { "url": "https://i.pinimg.com/originals/04/7e/07/047e07960194eb6006af2fcb4b369fe4.jpg" }
   ]
 }
-
+"news": [
+    {
+      "title": "Political News 1",
+      "description": "Kalonzo Musyoka asks Raila to relinquish Azimio,s leaderership following his deal with Ruto . ",
+      "image_url": "https://i.pinimg.com/originals/06/25/78/0625785859888e36e4cd89030b9cbedd.jpg",
+      "category": "politics"
+    },
+    {
+      "title": "Political News 2",
+      "description": "Eyes on Wiguru as women leaders push her to vie for president.They also stated that Kirinyaga county should begin searching for another female  leader",
+      "image_url": "https://4.bp.blogspot.com/-owbSBDyo9f8/VajSZYRErnI/AAAAAAAFeuk/XSPyQcHQoa8/s1600/Waiguru3.jpg",
+      "category": "politics"
+    },
+    {
+      "title": "Political News 3",
+      "description": "Description for political news .",
+      "image_url": "https://example.com/image3.jpg",
+      "category": "politics"
+    },
+    {
+      "title": "Entertainment News 1",
+      "description": "Description for entertainment news 1.",
+      "image_url": "https://example.com/image4.jpg",
+      "category": "entertainment"
+    },
+    {
+      "title": "Entertainment News 2",
+      "description": "Description for entertainment news 2.",
+      "image_url": "https://example.com/image5.jpg",
+      "category": "entertainment"
+    },
+    {
+      "title": "Entertainment News 3",
+      "description": "Description for entertainment news 3.",
+      "image_url": "https://example.com/image6.jpg",
+      "category": "entertainment"
+    },
+    {
+      "title": "Sports News 1",
+      "description": "Description for sports news 1.",
+      "image_url": "https://example.com/image7.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Sports News 2",
+      "description": "Description for sports news 2.",
+      "image_url": "https://example.com/image8.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Sports News 3",
+      "description": "Description for sports news 3.",
+      "image_url": "https://example.com/image9.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Political News 4",
+      "description": "Description for political news 4.",
+      "image_url": "https://example.com/image10.jpg",
+      "category": "politics"
+    },
+    {
+      "title": "Entertainment News 4",
+      "description": "Description for entertainment news 4.",
+      "image_url": "https://example.com/image11.jpg",
+      "category": "entertainment"
+    },
+    {
+      "title": "Sports News 4",
+      "description": "Description for sports news 4.",
+      "image_url": "https://example.com/image12.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Political News 5",
+      "description": "Description for political news 5.",
+      "image_url": "https://example.com/image13.jpg",
+      "category": "politics"
+    },
+    {
+      "title": "Entertainment News 5",
+      "description": "Description for entertainment news 5.",
+      "image_url": "https://example.com/image14.jpg",
+      "category": "entertainment"
+    },
+    {
+      "title": "Sports News 5",
+      "description": "Description for sports news 5.",
+      "image_url": "https://example.com/image15.jpg",
+      "category": "sports"
+    }
+  ]
   
